@@ -1,7 +1,7 @@
-![client](../src/socket/client.png)
+![client](src/socket/client.png)
 - 클라이언트
 
-![server](../src/socket/server.png)
+![server](src/socket/server.png)
 - 서버
 
 ### 응답방식
